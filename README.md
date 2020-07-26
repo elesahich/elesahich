@@ -7,13 +7,13 @@
 
 </div>
 
-*✅ resume : [Notion](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819)*
-*✅ blog: [tistory](http://lidium.tistory.com)*
+*✅ resume : [Notion](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819)* <br>
+*✅ blog: [tistory](http://lidium.tistory.com)* <br>
 *✅ email > elesahich@gmail.com*  </br> 
 
 ## 📌 활동
 
 * SOPT 25, 26기 iOS 파트 수료
-
-
+* 25기 : 크리에이터를 위한 Open MCN 플랫폼, [Crecker](https://github.com/Team-Crecker/Crecker_iOS)
+* 26기 : 우리들끼리 공유하는 최애장소, [placepic](https://github.com/placepic/placepic_iOS) 
 

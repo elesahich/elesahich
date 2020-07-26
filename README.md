@@ -9,7 +9,7 @@
 
 *✅ resume : [Notion](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819)* <br>
 *✅ blog: [tistory](http://lidium.tistory.com)* <br>
-*✅ email > elesahich@gmail.com*  </br> 
+*✅ email > elesahich@gmail.com*  </br><br>
 
 ## 📌 활동
 

@@ -11,8 +11,8 @@
 *✅ blog: [tistory](http://lidium.tistory.com)* <br>
 *✅ email > elesahich@gmail.com*  </br><br>
 
-## 📌 활동
-
+## 📌 활동  
+`#iOS Dev` `#Unity Dev` `#CV`
 * SOPT 25, 26기 iOS 파트 수료 
   + 25기 : 크리에이터를 위한 Open MCN 플랫폼, [Crecker](https://github.com/Team-Crecker/Crecker_iOS)
   + 26기 : 우리들끼리 공유하는 최애장소, [placepic](https://github.com/placepic/placepic_iOS) 

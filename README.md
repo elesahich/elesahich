@@ -1,4 +1,14 @@
-### Hi there 👋
+## ✏️ lidium 
+예쁜 디자인의 앱을 만드는 걸 좋아하는 개발자입니다.
+<div align="center">
+![Generic badge](https://img.shields.io/badge/iOS-swift-orange?logo=swift)
+![Generic badge](https://img.shields.io/badge/iOS-Developer-black?logo=swift) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2elesahich)](https://hits.seeyoufarm.com) 
+</div>
+> [✅ resume](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819) 
+> [✅ blog](http://lidium.tistory.com)
+> ✅ email > elesahich@gmail.com  </br>
+
 
 <!--
 **elesahich/elesahich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

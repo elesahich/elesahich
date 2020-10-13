@@ -16,4 +16,7 @@
 * SOPT 25, 26기 iOS 파트 수료 
   + 25기 : 크리에이터를 위한 Open MCN 플랫폼, [Crecker](https://github.com/Team-Crecker/Crecker_iOS)
   + 26기 : 우리들끼리 공유하는 최애장소, [placepic](https://github.com/placepic/placepic_iOS) 
-
+* ToyProject
+  + Team malang : 생각한대로 글을 써보아요, 생글 
+* @weplanet (20.09.01~), iOS Developer
+  + 집에서 바로 받고 보내자, 맥북 중고거래 플랫폼 [BARO](https://apps.apple.com/kr/app/baro-%EB%A7%A5%EB%B6%81-%EC%A4%91%EA%B3%A0-%EB%A7%88%EC%BC%93/id1361908636)

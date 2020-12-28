@@ -19,7 +19,7 @@
   - 26기 : 우리들끼리 공유하는 최애장소, [placepic](https://apps.apple.com/kr/app/placepic/id1526655660) (App Store)
 - ToyProject
 
-  - team malang : 생각한대로 글을 써보아요, 생글 
+  - team malang : 생각한대로 글을 써보아요, [생글](https://github.com/elesahich/Sangle/blob/master/README.md)
   - team Tost   : 영알못을 위한 토익스피킹 모의 테스트, 토스트
 - @weplanet (20.09.01~), iOS Developer
 

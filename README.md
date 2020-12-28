@@ -20,7 +20,7 @@
 - ToyProject
 
   - team malang : 생각한대로 글을 써보아요, 생글 
-  - team Tost   : 영알못을 위한 '토익스피킹 모의 테스트'
+  - team Tost   : 영알못을 위한 토익스피킹 모의 테스트, 토스트
 - @weplanet (20.09.01~), iOS Developer
 
   - 집에서 바로 받고 보내자, 맥북 중고거래 플랫폼 [BARO](https://apps.apple.com/kr/app/baro-%EB%A7%A5%EB%B6%81-%EC%A4%91%EA%B3%A0-%EB%A7%88%EC%BC%93/id1361908636) (App Store)

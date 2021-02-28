@@ -7,4 +7,4 @@
 <div align="left">
 <br>
 
-![Generic badge](https://img.shields.io/badge/Language-Swift-lightgray?logo=swift)&nbsp; ![Generic badge](https://img.shields.io/badge/iOS-Developer-white?logo=apple)&nbsp; ![Generic badge](https://img.shields.io/badge/watchOS-Developer-gray?logo=apple)
+![Generic badge](https://img.shields.io/badge/Language-Swift-lightgray?logo=swift)&nbsp; ![Generic badge](https://img.shields.io/badge/iOS-Developer-black?logo=apple)&nbsp; ![Generic badge](https://img.shields.io/badge/watchOS-Developer-gray?logo=apple)

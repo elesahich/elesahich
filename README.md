@@ -1,8 +1,8 @@
 ## 👩🏻‍🌾 lidium 
 튼튼한 체력과 성실함을 가진 워커홀릭 개발자입니다.
 
-📝 `resume` : [resume](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819) <br>
-✏️ `blog`&nbsp;&nbsp;&nbsp;&nbsp; : https://lidium.tistory.com
+📝 `portfolio` : [resume](https://www.notion.so/lidium-afccf21fb58746e8a24f1b375f592819) <br>
+✏️ `blog`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : https://lidium.tistory.com
 
 <div align="left">
 <br>
